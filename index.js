@@ -1,5 +1,4 @@
-#!/usr/bin / env node
-//第三方模块
+#!/usr/bin/env node
 const program = require("commander")
 //自己的模块
 const helpOptions = require("./lib/core/help.js")
