@@ -1,5 +1,7 @@
 #!/usr/bin / env node
+//第三方模块
 const program = require("commander")
+//自己的模块
 const helpOptions = require("./lib/core/help.js")
 const createCommands = require("./lib/core/create.js")
 
@@ -12,4 +14,5 @@ helpOptions()
 //创建其他指令
 createCommands();
 
+//必须有这句才能生效
 program.parse(process.argv)
