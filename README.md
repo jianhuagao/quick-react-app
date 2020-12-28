@@ -1,2 +1,2 @@
-# happy-react
+# quick-react-app
 # 正在开发中...

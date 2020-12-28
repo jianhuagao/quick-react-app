@@ -5,7 +5,7 @@ import "./assets/css/main.css"
 export default memo(function App() {
   return (
     <AppWrap>
-      <h1>Happy-React!!!</h1>
+      <h1>quick-react-app</h1>
     </AppWrap>
   )
 })

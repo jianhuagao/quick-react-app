@@ -1,17 +1,22 @@
 {
-  "name": "happy-react",
-  "version": "0.0.1",
+  "name": "quick-react-app",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "happy-react": "index.js"
+    "quick-react-app": "index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react","cli","react cli","reactcli"],
+  "author": "Gaojianhua",
   "license": "MIT",
+  "homepage": "https://github.com/jianhuagao",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/jianhuagao/quick-react-app"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^6.2.1",
