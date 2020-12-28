@@ -1,5 +1,18 @@
 # quick-react-app
-## 一个基于官方create-react-app的快速开发脚手架
+### 一个基于官方create-react-app的快速开发脚手架
+
+---
+
+[![NPM version][npm-image]][npm-url]
+[![node version][node-image]][node-url]
+
+[npm-image]: http://img.shields.io/npm/v/quick-react-app.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/quick-react-app
+[node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
+[node-url]: http://nodejs.org/download/
+## Intro
+[![quick-react-scripts](https://nodei.co/npm/quick-react-app.png)](https://npmjs.org/package/quick-react-app)
+
 ## quick-react-app能帮助你做什么?
 
 * 规范常用的目录结构
