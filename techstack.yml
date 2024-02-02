@@ -1,0 +1,355 @@
+repo_name: jianhuagao/quick-react-app
+report_id: b65483941e32329bb5d5885d0641f9af
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-02T06:58:40+00:00'
+requested_by: jianhuagao
+provider: github
+branch: main
+detected_tools_count: 26
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-23 09:56:47.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jianhuagao/quick-react-app
+  detection_source: Repo Metadata
+- name: Normalize.css
+  description: A modern alternative to CSS resets
+  website_url: https://necolas.github.io/normalize.css/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.5
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-23 09:56:47.000000000 Z
+- name: Ora
+  description: Agile task management and visual team collaboration, Ora is your team’s
+    command center with kanban, chat and timers!
+  website_url: https://ora.pm/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-23 09:56:47.000000000 Z
+- name: Immutable.js
+  description: Immutable persistent data collections for Javascript which increase
+    efficiency and simplicity, by Facebook
+  website_url: http://facebook.github.io/immutable-js/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 05:13:23.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 05:13:23.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 6.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-24 09:58:57.000000000 Z
+- name: immutable
+  description: Immutable Data Collections
+  package_url: https://www.npmjs.com/immutable
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16070/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 7.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 05:13:23.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
+- name: redux-immutable
+  description: Redux-immutable is used to create an equivalent function of Redux combineReducers
+    that works with Immutable.js state
+  package_url: https://www.npmjs.com/redux-immutable
+  version: 4.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18241/default_42444f560291e764861faaf607f48484f4d14cba.png
+  detection_source_url: https://github.com/jianhuagao/quick-react-app/blob/main/lib/react-template/package.json
+  detection_source: lib/react-template/package.json
+  last_updated_by: gaojianhua
+  last_updated_on: 2020-12-26 17:24:25.000000000 Z
